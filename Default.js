@@ -1,3 +1,3 @@
-let teste = "ttttttttttttt";
+let teste = "aaaaaaa";
 
 console.log(teste);
